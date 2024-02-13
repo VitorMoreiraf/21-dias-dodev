@@ -8,12 +8,5 @@ let pesoDoUsuario = Number(peso);
 IMC = pesoDoUsuario / (alturaDoUsuario **2);
 let IMCDoUsuario = IMC.toFixed(2);
 
-console.log(nomeDoUsuario)
-console.log(idadeDoUsuario)
-console.log(alturaDoUsuario)
-console.log(pesoDoUsuario)
-
-console.log(IMCDoUsuario)
-
 console.log('Olá '+ nomeDoUsuario + ', você tem ' + idadeDoUsuario +' anos, nasceu em ' + anoDeNascimento + 
 ', tem ' + alturaDoUsuario +' de altura, pesa ' +  pesoDoUsuario + 'kg seu IMC é ' + IMCDoUsuario + ' Kg/m2.');  
