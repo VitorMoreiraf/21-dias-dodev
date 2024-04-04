@@ -1,3 +1,4 @@
+//CRIANDO CLASS
 class Carro {
     Nome
     Potecia
@@ -49,6 +50,7 @@ class Corrida {
     }
 }
 
+//CRIANDO OBJETO
 let corrida = new Corrida("GTR R35", "Corrida de rua ", 600000)
 
 
