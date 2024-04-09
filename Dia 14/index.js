@@ -43,3 +43,5 @@ function PerguntarNovamente() {
         console.log("Programa encerrado.");
     }
   }
+// Chamando a função
+  console.log(PerguntarColaborador())
